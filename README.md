@@ -41,15 +41,14 @@ Sou uma pessoa comunicativa, que busca sempre aprender e me adaptar às novas ex
 
 ## 📌 Contato:
 
-<p>💼 <a href="https://www.linkedin.com/in/joaorr">LinkedIn</a>a></p>p>
-<p>🌐 <a href="https://portifolio-ja1.vercel.app/">Portfólio</a>a></p>p>
-<p>📧 <a href="mailto:ja1zin23@gmail.com">ja1zin23@gmail.com</a>a></p>p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorr)
+[![Portifolio](https://img.shields.io/badge/Portif%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-ja1.vercel.app/)
+[![Gmail](https://img.shields.io/badge/ja1zin23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ja1zin23@gmail.com)
 
 ---
 
 <div align="center">
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
 
-  </div>
-</p></p>
+</div>
