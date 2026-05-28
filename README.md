@@ -39,27 +39,16 @@ Sou uma pessoa comunicativa, que busca sempre aprender e me adaptar às novas ex
 
 ---
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja1zin4093-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-Visit%20Now-blue?style=for-the-badge)](https://portifolio-ja1.vercel.app/)
-
-</div>
-
----
-
 ## 📌 Contato:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaorr)
-- - 📧 Email: joaogabriel@email.com
- 
-  - ---
+- - 🌐 [Portfólio](https://portifolio-ja1.vercel.app/)
+  - - 📧 [ja1zin23@gmail.com](mailto:ja1zin23@gmail.com)
+   
+    - ---
 
-  <div align="center">
+    <div align="center">
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
+    ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
 
-  </div>
+    </div>
