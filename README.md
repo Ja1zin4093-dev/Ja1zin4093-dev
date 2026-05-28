@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full-Stack&descAlignY=58&descSize=22&descColor=cccccc)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%9A%80;Apaixonado+por+tecnologia+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 </div>
 
 ---
